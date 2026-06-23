@@ -83,7 +83,7 @@ The project uses the famous Titanic dataset containing information about passeng
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/krishbhingradiya/CODSOFT.git
+git clone https://github.com/avipatel708/CodSoft.git
 cd CODSOFT/Task-1-Titanic-Survival-Prediction
 ```
 
