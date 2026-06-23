@@ -84,28 +84,22 @@ The project uses the famous Titanic dataset containing information about passeng
 
 ```bash
 git clone https://github.com/avipatel708/CodSoft.git
-cd CODSOFT/Task-1-Titanic-Survival-Prediction
+cd CodSoft/Task-1-Titanic-Survival-Prediction
 ```
 
 ### 2️⃣ Install Required Libraries
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 ```
 
 ### 3️⃣ Launch Jupyter Notebook
 
 ```bash
-jupyter notebook
+jupyter notebook titanic_survival_prediction.ipynb
 ```
 
-### 4️⃣ Open the Notebook
-
-```text
-Titanic_Survival_Prediction.ipynb
-```
-
-### 5️⃣ Run All Cells
+###  Run All Cells
 
 Execute all notebook cells sequentially to:
 
